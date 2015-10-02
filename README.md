@@ -1,3 +1,3 @@
 # Undergraduate research programming exercises
 
-Notes here.
+Add some notes here.
